@@ -1,0 +1,186 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+svg {
+  margin: 8px;
+}
+
+nav {
+  align-items: center;
+  justify-content: center;
+  /* margin-bottom: 100px; */
+  margin-left: 450px;
+  
+
+}
+
+.header {
+  align-item: left;
+  justify-content: left;
+  background-image: url("https://w0.peakpx.com/wallpaper/898/780/HD-wallpaper-fun-with-fireworks-auto-grand-gains-gotten-theft.jpg");
+  color: white;
+  width: 100%;
+}
+
+.headerHeading {
+  font-weight: 600;
+  font-size: 5rem;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding-top: 140px;
+  margin-left: 25px;
+}
+
+.headerText {
+  /* padding:20px 30px 20px 30px; */
+  font-weight: 280;
+  font-size: 2.8rem;
+  margin-left: 25px;
+  width: 50%;
+}
+
+.header button {
+  margin-bottom: 60px;
+  margin-left: 25px;
+  width: 18%;
+}
+
+.services {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.services h3 {
+  color: Orange;
+  font-weight: 280;
+  font-size: 2.8rem;
+}
+
+.services span {
+  font-weight: 280;
+  font-size: 4rem;
+}
+
+.services-grid {
+  display: flex;
+  flex-direction: row;
+  padding-top: 30px;
+  margin-left: 40px;
+}
+.grid {
+  margin: 30px 40px;
+  padding: 10px;
+}
+
+.globe-img {
+  width: 40%;
+}
+
+.hotel-img {
+  width: 45%;
+}
+
+.grid span {
+  font-weight: 150px;
+  opacity: 0.8;
+  font-size: 1.9rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+}
+
+.packages h2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800px;
+  font-size: 4.9rem;
+}
+
+.tour-img {
+    width: 30%;
+}
+
+.tour-cards {
+    display: flex;
+  flex-direction: row;
+  padding-top: 30px;
+  margin-left: 40px;
+}
+
+.packages button {
+    align-items: center;
+  justify-content: center;
+  margin-bottom: 60px;
+  margin-left: 500px;
+  margin-top: 60px;
+
+  width: 18%;
+
+
+}
+
+.overlayText {
+  position:absolute;
+   top:30%;
+   left:20%;
+   z-index:1;
+ }
+ 
+ .topText {
+   color: white;
+   font-size: 20px;
+   align-self: center;
+ }
+
+ .query {
+  font-weight: 350px;
+  font-size: 1.5rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: 40px 200px 40px 400px;
+  
+  width: 40%;
+
+ }
+
+ .svg-img {
+  width: 3%;
+ }
+
+ .footer {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+  margin-left: 550px;
+  /* margin-top: 60px; */
+ }
+
+
+.footer2 p {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 60px;
+  margin-left: 120px;
+
+
+
+}
+
+
+
